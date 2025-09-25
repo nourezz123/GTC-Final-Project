@@ -3,8 +3,8 @@
 ###  Team Members
 - Phase 1: Data Preparation – [اسم الشخص]
 - Phase 2: EDA + Feature Building – [اسم الشخص]
-- Phase 3: Model Training & Validation – [Mohamed & Mostafa]
-- Phase 4: Deployment (Streamlit App) – [Nour]
+- Phase 3: Model Training & Validation – Mohamed & Mostafa
+- Phase 4: Deployment (Streamlit App) – Nour
 
 ---
 
